@@ -1,0 +1,120 @@
+
+/*头部广告*/
+.top-header {
+    height: 80px;
+    background-color: #C6157F;
+
+}
+.top-header .top-img{
+    height: 80px;
+    background: url("../images/bg-header-top1.jpg");
+    position: relative;
+    bottom: 0;
+}
+.container #topOff {
+    font-size: 18px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width:25px;
+    height: 25px;
+    text-align:center;
+    line-height: 25px;
+    background-color: #000;
+    opacity: .2;
+    color: #fff;
+    border-radius: 4px;
+}
+.container a:hover {
+    opacity: .8;
+}
+
+
+/*头部广告end*/
+
+/*头部类*/
+.header-mid-left p{
+    margin-bottom: 6px;
+}
+
+.header-mid-right-content span {
+    font-style: normal;
+    font-size: 14px;
+    margin-left: 5px;
+}
+
+nav > ul > li > a {
+   color: black;
+    font-size: 15px;
+}
+.menu-item .menu {
+    background-color: #F1F1F1;
+}
+.menu-item .menu-item-color {
+    color: #686868;
+    font-size: 15px;
+}
+.flaticon-commerce span,
+.flaticon-like span {
+    margin-left: 5px;
+    font-size: 15px;
+    font-style: normal;
+}
+.fa-caret-down {
+    font-size: 16px !important;
+}
+.cart-menu-relative .text-hover-cart {
+    font-size: 13px;
+    line-height: 20px;
+}
+.subtotal-hover-cart a{
+    font-size: 12px;
+}
+/*分类*/
+
+.header-style1 .has-mega-menu .category-drop-list {
+    background: rgba(255,255,255,.8);
+}
+
+.list-banner .banner-item {
+    background: rgba(255,255,255,.8);
+}
+
+.banner-absolute .banner-item1 {
+    background: transparent url("../../assets/images/as1.jpg") no-repeat scroll 0 0 ;
+
+}
+.banner-absolute .banner-item2 {
+    background: transparent url("../../assets/images/as2.jpg") repeat scroll 0 0; }
+.banner-absolute .banner-item3 {
+    background: transparent url("../../assets/images/as3.jpg") repeat scroll 0 0; }
+
+/*单品栏目*/
+.left-tab-asblute h5 {
+    letter-spacing: 2px;
+    line-height: 18px;
+
+}
+.left-tab-asblute {
+    left: 0;
+    bottom: 0;
+    width: 300px;
+    height: 180px;
+    background-color: rgba(0,0,0,.5);
+    padding-left: 20px;
+}
+a.bg-666 {
+    background-color: #ff8400;
+}
+
+.col-md-8 .icon-box-content h4{
+    margin-top: 48px ;
+    margin-left: 20px;
+}
+.col-sm-12 .copyright {
+    margin: 3px;
+}
+
+.payment{
+    text-align: center;
+}
